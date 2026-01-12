@@ -30,7 +30,7 @@ All projects are developed independently and maintained with long-term usability
 ## 👤 Maintainer
 
 **Maintained by:**  
-**Your Name**  
+**YashrajMTiwari**  
 Flutter Developer  
 
 PuppetDigital is a personal, independent initiative.  
@@ -40,7 +40,6 @@ All projects here are created outside of any employer work and are not affiliate
 
 ## 🌐 Links
 
-- 🌍 Website: https://puppetdigital.dev  
 - 📸 Instagram: https://instagram.com/puppetdigital.dev  
 - 👽 Reddit: https://reddit.com/u/puppetdigital-dev  
 
