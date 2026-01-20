@@ -8,17 +8,17 @@ This space serves as a home for open-source packages, developer utilities, and e
 
 ## 🔧 What I Build
 
-- 📱 Flutter packages and mobile utilities  
-- 🧠 AI-assisted tools and experiments  
-- 🕶️ AR concepts and integrations  
-- 🎮 Mobile game prototypes and systems  
-- 🛠️ Developer productivity tools  
+-  Flutter packages and mobile utilities  
+-  AI-assisted tools and experiments  
+-  AR concepts and integrations  
+-  Mobile game prototypes and systems  
+-  Developer productivity tools  
 
 All projects are developed independently and maintained with long-term usability and clarity in mind.
 
 ---
 
-## 🧩 Philosophy
+##  Philosophy
 
 - Build things I actually use  
 - Keep tools simple, documented, and reusable  
@@ -27,10 +27,10 @@ All projects are developed independently and maintained with long-term usability
 
 ---
 
-## 👤 Maintainer
+##  Maintainer
 
 **Maintained by:**  
-**YashrajMTiwari**  
+[**YashrajMTiwari**](https://github.com/YashrajMTiwari)
 Flutter Developer  
 
 PuppetDigital is a personal, independent initiative.  
@@ -38,10 +38,10 @@ All projects here are created outside of any employer work and are not affiliate
 
 ---
 
-## 🌐 Links
+##  Links
 
-- 📸 Instagram: https://instagram.com/puppetdigital.dev  
-- 👽 Reddit: https://reddit.com/u/puppetdigital-dev  
+-  Instagram: https://instagram.com/puppetdigital.dev  
+-  Reddit: https://reddit.com/u/puppetdigital-dev  
 
 ---
 
