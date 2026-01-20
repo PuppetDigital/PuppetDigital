@@ -30,7 +30,7 @@ All projects are developed independently and maintained with long-term usability
 ## Maintainer
 
 **Maintained by:**  
-[**Yashraj**](https://github.com/YashrajMTiwari)
+[**YashrajMTiwari**](https://github.com/YashrajMTiwari)
 Flutter Developer  
 
 PuppetDigital is a personal, independent initiative.  
