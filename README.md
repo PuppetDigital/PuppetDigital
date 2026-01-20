@@ -6,7 +6,7 @@ This space serves as a home for open-source packages, developer utilities, and e
 
 ---
 
-## 🔧 What I Build
+## What I Build
 
 -  Flutter packages and mobile utilities  
 -  AI-assisted tools and experiments  
@@ -18,7 +18,7 @@ All projects are developed independently and maintained with long-term usability
 
 ---
 
-##  Philosophy
+## Philosophy
 
 - Build things I actually use  
 - Keep tools simple, documented, and reusable  
@@ -27,7 +27,7 @@ All projects are developed independently and maintained with long-term usability
 
 ---
 
-##  Maintainer
+## Maintainer
 
 **Maintained by:**  
 [**YashrajMTiwari**](https://github.com/YashrajMTiwari)
@@ -38,13 +38,13 @@ All projects here are created outside of any employer work and are not affiliate
 
 ---
 
-##  Links
+## Links
 
--  Instagram: https://instagram.com/puppetdigital.dev  
--  Reddit: https://reddit.com/u/puppetdigital-dev  
+-  [Instagram](https://instagram.com/puppetdigital.dev)
+-  [Reddit](https://reddit.com/u/puppetdigital-dev)  
 
 ---
 
-## 📄 License
+## License
 
 Unless otherwise stated, projects are released under the MIT License.
