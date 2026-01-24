@@ -25,13 +25,7 @@ All projects are developed independently and maintained with long-term usability
 - Experiment freely without overengineering  
 - Share knowledge through open-source  
 
----
-
-## Maintainer
-
-**Maintained by:**  
-[**YashrajMTiwari**](https://github.com/YashrajMTiwari)
-Flutter Developer  
+---  
 
 PuppetDigital is a personal, independent initiative.  
 All projects here are created outside of any employer work and are not affiliated with any company unless explicitly stated.
