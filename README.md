@@ -1,6 +1,6 @@
 # PuppetDigital
 
-**PuppetDigital** is an independent development studio focused on building practical, reusable tools and experiments across **Flutter**, **AI**, **AR**, and **mobile games**.
+**PuppetDigital** is an independent development studio focused on building practical, reusable tools and experiments across **Flutter**, **AI**.
 
 This space serves as a home for open-source packages, developer utilities, and experimental projects designed to solve real problems and improve development workflows.
 
@@ -10,8 +10,6 @@ This space serves as a home for open-source packages, developer utilities, and e
 
 -  Flutter packages and mobile utilities  
 -  AI-assisted tools and experiments  
--  AR concepts and integrations  
--  Mobile game prototypes and systems  
 -  Developer productivity tools  
 
 All projects are developed independently and maintained with long-term usability and clarity in mind.
