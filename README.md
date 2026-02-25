@@ -4,6 +4,8 @@
 
 This space serves as a home for open-source packages, developer utilities, and experimental projects designed to solve real problems and improve development workflows.
 
+**PuppetDigital is created and maintained by [Yashraj Tiwari](https://github.com/YashrajMTiwari), a Flutter developer focused on building reliable tools and meaningful experiments.**
+
 ---
 
 ## What I Build
